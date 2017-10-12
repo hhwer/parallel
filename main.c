@@ -4,7 +4,7 @@
 int main()
 {
 	printf("I love phy\n");
-	printf("git is good!\n");
+	printf("crazy!\n");
 	return 0;
 }
 
