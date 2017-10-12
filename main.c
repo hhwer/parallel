@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("I love git.\n");
+	printf("I love math\n");
 	printf("git is good!\n");
 	return 0;
 }
